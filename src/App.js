@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      First Create React APP
+      First Create React APP Using AWS Amplify
     </div>
   );
 }
